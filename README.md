@@ -21,7 +21,7 @@
 ### About Me 🌊:
 👋 Hello! I'm Bryson Goto and I'm a recent Electrical and Computer Engineering graduate from Oregon State University with a minor in Computer Science. I have experience in research and development with IoT projects. 
 
-I grew up in Hawaii on the island of O'ahu 🏝️. In my freetime, I enjoy playing badminton 🏸, video games 🎮, and spending time with my friends 👪. I'm looking to program as a hobby and making cool things!
+I grew up in Hawaii on the island of O'ahu 🏝️. In my freetime, I enjoy playing badminton 🏸, video games 🎮, and spending time with my friends and family 👪. I'm looking to program as a hobby and making cool things!
 
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on random Discord bots to automate mundane tasks
