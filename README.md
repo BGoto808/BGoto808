@@ -12,7 +12,7 @@
 </div>
 
 <!--- Profile View Count -->
-<div id="badges" align="center">
+<div id="profile_view" align="center">
 <img src="https://komarev.com/ghpvc/?username=BGoto808&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -21,7 +21,7 @@
 ### About Me 🌊:
 👋 Hello! I'm Bryson Goto and I'm a recent Electrical and Computer Engineering graduate from Oregon State University with a minor in Computer Science. I have experience in research and development with IoT projects. 
 
-I grew up in Hawaii on the island of O'ahu. In my freetime, I enjoy playing badminton, video games, and spending time with my friends. I'm looking to program as a hobby and making cool things!
+I grew up in Hawaii on the island of O'ahu. In my freetime, I enjoy playing badminton 🏸, video games 🎮, and spending time with my friends 👪. I'm looking to program as a hobby and making cool things!
 
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on random Discord bots to automate mundane tasks
@@ -43,10 +43,10 @@ I grew up in Hawaii on the island of O'ahu. In my freetime, I enjoy playing badm
 ---
 
 ### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BGoto808&theme=dark&background=000000)](https://git.io/streak-stats)
-
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BGoto808&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **BGoto808/BGoto808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
